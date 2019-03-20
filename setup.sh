@@ -21,7 +21,7 @@ cd .modules
 mv main.py $HOME/SharkFramework
 cd
 mv SharkFramework $PREFIX/bin
-mv $PREFIX/bin/SharkFramework .SharkFramework
+mv $PREFIX/bin/SharkFramework $PREFIX/bin/.SharkFramework
 
 echo "
 import os
