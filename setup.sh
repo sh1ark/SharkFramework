@@ -1,3 +1,6 @@
+echo 'Big Thanks To My Best Friend Yehia Ali'
+sleep 5
+
 echo "Hello Friends ! Installer Strting. . . !"
 sleep 2
 figlet -f big "Hello"
