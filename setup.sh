@@ -12,6 +12,8 @@ echo "Installing . . .!"
 pkg install python2
 pkg install python2-pip
 pkg install git
+pkg install nmap
+pkg install sqlmap
 pip2 install requests
 unzip .modules.zip
 mv modules .modules
