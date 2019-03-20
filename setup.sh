@@ -14,6 +14,7 @@ pkg install python2-pip
 pkg install git
 pip2 install requests
 unzip .modules.zip
+mv modules .modules
 cd .modules
 mv main.py $HOME/SharkFramework
 cd
